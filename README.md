@@ -1,5 +1,5 @@
 # Hello there; welcome 👋🏾
-### My name is Bella
+### My name is Bella Jaiyeola
 #### Design and Development
 
 I'm a Software Engineer, Content Creator, and I'm passionate about sharing knowledge, documentation, web engineering.
